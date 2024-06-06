@@ -473,6 +473,22 @@ html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, 
         opacity: 0;  
         }  
 
+    .secondary .special:hover {
+        color: rgb(138, 172, 201);
+        }
+    
+    .mainstory .special:hover {
+        color: rgb(138, 172, 201);
+        }
+    
+    .secondary .h-special:hover{
+        color: rgb(23, 39, 53);
+        }
+    
+    .mainstory .h-special:hover{
+        color: rgb(23, 39, 53);
+        }   
+
 
     nav ul li a{
         color: rgb(136, 165, 68);
